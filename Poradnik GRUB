@@ -1,0 +1,17 @@
+GNU GRUB (ang. grand unified bootloader) – program rozruchowy rozwijany w ramach projektu GNU, używany w wielu dystrybucjach GNU Linux (w tym Mint) jako standardowy program rozruchowy.
+
+1. Dopisywanie parametrów startowych na etapie rozruchu
+Gdy pojawi się menu z wyborem systemu, wybieramy strzałkami interesującą nas pozycję i wciskamy klawisz `e` co włączy tryb edycji parametrów startowych.
+Dokonujemy stosowne zmiany i zatwierdzamy wciskając klawisze `Ctrl`+`x` lub wybieramy klawisz `ESC` aby anulować zmiany.
+Zmiany nie są permanentne, przy kolejnym rozruchu musimy w razie potrzeby, ponownie dokonać zmian lub skorzystać z porad w punkcie 2.
+
+2. Dopisywanie parametrów do pliku konfiguracyjnego GRUB.
+Dokonujemy stosowne wpisy w pliku `/etc/default/grub`
+Zatwierdzamy zmiany poleceniem: `sudo update-grub`
+W tym momencie zmiany są permanentne.
+
+Literatura:
+https://pl.wikipedia.org/wiki/GNU_GRUB
+https://pl.wikibooks.org/wiki/Linux/GRUB
+https://www.gnu.org/software/grub/
+https://www.gnu.org/software/grub/manual/grub/
