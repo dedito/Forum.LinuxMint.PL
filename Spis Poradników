@@ -1,0 +1,169 @@
+Poradniki podzielone wg kategorii.
+
+[size=x-large][b]FORUM[/b][/size]
+[url=https://forum.linuxmint.pl/showthread.php?tid=9]Jak zadawać pytania na forum[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=9&pid=1075#pid1075]Jak zadawać pytania na forum: Znaczniki kodu[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=9&pid=1076#pid1076]Jak zadawać pytania na forum: Informacje o systemie i sprzęcie[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=9&pid=1078#pid1078]Jak zadawać pytania na forum: Problemy z kartami sieciowymi[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=9&pid=1079#pid1079]Jak zadawać pytania na forum: Śledzenie adapterów USB w buforze warstwy jądra[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=9&pid=2113#pid2113]Jak zadawać pytania na forum: Problemy z dźwiękiem[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=10]Jak wstawić grafikę na forum[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=304]Zasady obowiązujące na forum[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=5]REGULAMIN[/url]
+
+
+[size=x-large][b]SYSTEM[/b][/size]
+[url=https://forum.linuxmint.pl/showthread.php?tid=3492]Poradnik dla osób chcących poznać dystrybucje GNU/Linux (przesiadka z Windows)[/url]
+[b]Instalacja systemu[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=90]Linux Mint - instalacja[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=104]Problemy podczas instalacji systemu[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=246]Sprawdzenie pliku ISO przed instalacją systemu[/url]
+
+[b]Tworzenie nośnika rozruchowego[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=79]Tworzenie bootowalnego pendrive'a za pomocą niskopoziomowego programu dd[/url]
+
+[b]Konfiguracja programu rozruchowego[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=161]Konfiguracja GRUB: Spis treści[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=161&pid=22858#pid22858]Konfiguracja GRUB: Powiększenie liter w menu GRUB[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=161&pid=22859#pid22859]Konfiguracja GRUB: Domyślny system[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=161&pid=22859#pid22861]Konfiguracja GRUB: Pokazanie menu, czas wyświetlania menu i ostatnio uruchomiony system albo jądro[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=161&pid=22859#pid22865]Konfiguracja GRUB: Dodanie parametrów rozruchu[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=161&pid=22885#pid22885]Konfiguracja GRUB: Naprawa GRUB[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=161&pid=23421#pid23421]Konfiguracja GRUB: Oddzielne partycje rozruchu dla systemów Windows 11 i Linux Mint[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=145]Obsługa programu rozruchowego GNU GRUB[/url]
+
+[b]Przestrzeń wymiany[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=114]Jak powiększyć przestrzeń wymiany (swap)[/url]
+
+[b]Jądro systemu[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=76]Kernel Liquorix[/url]
+
+[b]Zarządzanie oprogramowaniem[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=337]Jak zobaczyć historię zainstalowanych, zaktualizowanych lub usuniętych pakietów[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=338]Automatyzacja ponownej instalacji "nieopatrznie" usuniętych pakietów[/url]
+
+[b]Inne[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=41]Czyszczenie systemu[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=36]Różnice w użyciu su, sudo, admin:// i pkexec[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=1383]Darmowy ProtonVPN w Linux Mint[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=3171]Steam i monitor 4k - skalowanie intefrace-u[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=3170]Instalacja i zmiana Pymouth [splashscreen podczas rozruchu/zamykania sys.][/url]
+
+
+[size=x-large][b]MASZYNY WIRTUALNE[/b][/size]
+[url=https://forum.linuxmint.pl/showthread.php?tid=2895]Instalacja Dockera na Linux Mint "Wilma" 22[/url]
+
+
+[size=x-large][b]OPROGRAMOWANIE UŻYTKOWE[/b][/size]
+[b]Zarządzanie plikami[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=57]Jak odzyskać pliki z zaszyfrowanego katalogu użytkownika[/url]
+
+[b]Przeglądarki www[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=3220]Akceleracja sprzętowa / dekodowanie sprzętowe Firefox + Nvidia[/url]
+
+[b]PDF[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=7]Przywrócenie domyślnego programu do otwierania plików PDF[/url]
+
+[b]Grafika[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=11]Screenshot - zmiana domyślnego programu[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=716]Automatyczny zapis zrzutów ekranu[/url]
+[url=https://forum.linuxmint.pl/showthread.php?tid=3238]Jak ustawić obramowanie i kolor aktywnego okna - Cinnamon DE[/url]
+
+[b]Praca zdalna[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=3436]Instrukcja przygotowania komputera do pomocy/pracy zdalnej [RustDesk][/url]
+
+[b]Inne[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=3423]LocalSend - naprawa buga powodująca brak startu przy starcie systemu[/url]
+
+
+[size=x-large][b]SPRZĘT[/b][/size]
+[b]Karty graficzne[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=183]Ściąga dotycząca sterowników grafiki[/url]
+
+[b]Skanery[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=1361]Instalacja skanerów Cannon CanoScan LiDE 300 i 400 w Linux Mint 20[/url]
+
+[b]Drukarki HP[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=1360]Instalacja sterowników do drukarek HP[/url]
+
+[b]Urządzenia wielofunkcyjne Brother[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=1989]Instalacja urządzeń wielofunkcyjnych Brother[/url]
+
+[b]Linux Mint na ...[/b]
+[url=https://forum.linuxmint.pl/showthread.php?tid=553]Dell Inspiron[/url]
+
+
+P.S.
+[i]Prośba o dopisywanie się do historii zmian po dodaniu nowego poradnika.[/i]
+
+Historia zmian:
+04-05-2019 dedito, dodano: Nowa sekcja GRY, nowy dział Lutris, nowy poradnik "Ściąga jak zainstalować Lutrisa".
+05-05-2019 magnus, dodano: Sprawdzenie pliku ISO przed instalacją systemu
+11-05-2019 yahoob3, dodano: Nowy dział - Karty dźwiękowe, nowy poradnik - Automatyczne przełączenie dźwięku na HDMI
+14-05-2019 dedito, dodano: Menadżer aktualizacji w Linux Mint
+09-06-2019 dedito, dodano: Jak zobaczyć historię zainstalowanych, zaktualizowanych lub usuniętych pakietów?
+09-06-2019 yahoob3, dodano: Automatyzacja ponownej instalacji "nieopatrznie" usuniętych pakietów
+12-06-2019 yahoob3, dodano: Instalacja Chromium w wersji beta i uruchomienie przyspieszenia sprzętowego
+30-08-2019 yahoob3 (magnus), dodano: Problemy z edytorem menu LM 19.2 MATE
+21-10-2019 magnus, dodano: Dell Inspiron
+09-12-2019 magnus, usunięto: Firefox - zmiana pozycji paska kart, przestał być aktualny
+19-12-2019 magnus, aktualizacja: Linux Mint 19.2 - instalacja na Linux Mint 19.3 - instalacja
+17-01-2020 Karpiu, dodano: Automatyczny zapis zrzutów ekranu
+02-06-2020 magnus (przemof-s), dodano: Linux Mint 19.3 + Full Disk Encryption + LVM + LUKS + UEFI
+27-06-2020 magnus, aktualizacja: Linux Mint 19.3 - instalacja na Linux Mint 20 - instalacja
+30-06-2020 magnus (omkar), dodano: Ochrona PC z Linuksem
+09-12-2020 yahoob3 (omkar), dodano: Instalacja skanerów Cannon CanoScan LiDE 300 i 400 w Linux Mint 20
+09-12-2020 yahoob3 (omkar), dodano: Instalacja sterowników do drukarek HP
+08-01-2021 magnus, aktualizacja: Linux Mint 20 - instalacja na Linux Mint 20.1 - instalacja
+09-01-2021 dedito: dodano uwagę na temat aktualności do poradnika menadżera aktualizacji autorstwa Pawlik
+09-01-2021 dedito: dodano uwagę i zaktualizowano poradnik autorstwa Ciastek pod kątem wyłączonych paczek snap w Linux Mint 20
+26-01-2021 yahoob3, dodano: Nowa sekcja SIEĆ, nowy dział Samba, nowy poradnik "Samba dla opornych - instalacja i konfiguracja "system-config-samba" w Mint 20.1"
+01-02-2021 magnus, usunięto: Firefox - ustawienia zaawansowane, przestał być aktualny
+08-07-2021 magnus, aktualizacja: Linux Mint 20.1 - instalacja na Linux Mint 20.2 - instalacja
+07-01-2022 magnus, aktualizacja: Linux Mint 20.2 - instalacja na Linux Mint 20.3 - instalacja
+10-02-2022 magnus, dodano: Rsync - kopiowanie i synchronizacja plików
+27-02-2022 yahoob3, dodano: Instalacja urządzeń wielofunkcyjnych Brother
+31-07-2022 magnus, aktualizacja: Linux Mint 20.3 - instalacja na Linux Mint 21 - instalacja
+20-12-2022 magnus, aktualizacja: Linux Mint 21 - instalacja na Linux Mint 21.1 - instalacja
+27-04-2023 magnus, usunięto: Problemy z edytorem menu LM 19.2 MATE, przestał być aktualny
+16-07-2023 magnus, aktualizacja: Linux Mint 21.1 - instalacja na Linux Mint 21.2 - instalacja
+20-08-2023 magnus, aktualizacja: Linux Mint 21.2 - instalacja na Linux Mint - instalacja
+03-04-2025 dedito, dodano: Steam i monitor 4k - skalowanie intefrace-u
+03-04-2025 dedito, dodano: Instalacja i zmiana Pymouth [splashscreen podczas rozruchu/zamykania sys.]
+03-04-2025 dedito, dodano: Instalacja Dockera na Linux Mint "Wilma" 22
+25-05-2025 magnus, usunięto: Rsync - kopiowanie i synchronizacja plików, przestał być aktualny
+26-05-2025 dedito: dodano: Akceleracja sprzętowa / dekodowanie sprzętowe Firefox + Nvidia
+09-06-2025 magnus, dodano: Jak ustawić obramowanie i kolor aktywnego okna - Cinnamon DE
+20-06-2025 magnus, usunięto: Menadżer aktualizacji w Linux Mint, przestał być aktualny
+30-10-2025 magnus, usunięto: WoeUSB program do tworzenia bootowalnego pendrive'a z Windows, przestał być aktualny
+30-10-2025 magnus, usunięto: Samba dla opornych - instalacja i konfiguracja "system-config-samba" w Mint 20.1, przestał być aktualny
+31-10-2025 magnus, usunięto: Linux Mint 19.3 + Full Disk Encryption + LVM + LUKS + UEFI, przestał być aktualny
+03-11-2025 magnus, usunięto: Instalacja Chromium w wersji beta i uruchomienie przyspieszenia sprzętowego, przestał być aktualny
+09-11-2025 magnus, usunięto: Instalacja i manualna konfiguracja Redshifta, przestał być aktualny
+11-11-2025 magnus, usunięto: Automatyczne przełączenie dźwięku na HDMI, przestał być aktualny
+12-11-2025 magnus, dodano: Jak zadawać pytania na forum
+12-11-2025 magnus, dodano: Jak zadawać pytania na forum: Znaczniki kodu
+12-11-2025 magnus, dodano: Jak zadawać pytania na forum: Informacje o systemie i sprzęcie
+12-11-2025 magnus, dodano: Jak zadawać pytania na forum: Problemy z kartami sieciowymi
+12-11-2025 magnus, dodano: Jak zadawać pytania na forum: Śledzenie adapterów USB w buforze warstwy jądra
+12-11-2025 magnus, dodano: Jak zadawać pytania na forum: Problemy z dźwiękiem
+12-11-2025 magnus, dodano: Jak wstawić grafikę na forum
+12-11-2025 magnus, dodano: Zasady obowiązujące na forum
+12-11-2025 magnus, dodano: REGULAMIN
+12-11-2025 magnus, dodano: Konfiguracja GRUB: Powiększenie liter w menu GRUB
+12-11-2025 magnus, dodano: Konfiguracja GRUB: Domyślny system
+12-11-2025 magnus, dodano: Konfiguracja GRUB: Pokazanie menu, czas wyświetlania menu i ostatnio uruchomiony system albo jądro
+12-11-2025 magnus, dodano: Konfiguracja GRUB: Dodanie parametrów rozruchu
+14-11-2025 magnus, usunięto: Instalacja VMware Workstation Player, przestał być aktualny
+14-11-2025 magnus, usunięto: Tworzenie i konfiguracja maszyny wirtualnej przy pomocy VMware Player, przestał być aktualny
+15-11-2025 magnus, usunięto: Ściąga jak zainstalować Lutrisa, przestał być aktualny
+17-11-2025 magnus, dodano: Konfiguracja GRUB: Naprawa GRUB
+19-11-2025 magnus, usunięto: Tworzenie bootowalnego pendrive'a z dystrybucją Linuxa za pomocą programu Dyski, przestał być aktualny
+20-11-2025 magnus, przeniesiono: Nauka edytora VIM, do Publikacje "Linuksowe" oraz związane z tematyką IT
+21-11-2025 magnus, usunięto: Jak wyszukać pliki? [mlocate], przestał być aktualny
+23-11-2025 magnus, usunięto: Uniwersalny format paczek snap, przestał być aktualny
+25-11-2025 magnus, usunięto: Dualboot - jak przywrócić bootloader Windows 7, a następnie GRUB, przestał być aktualny
+12-01-2026 magnus, dodano: LocalSend - naprawa buga powodująca brak startu przy starcie systemu
+14-01-2026 magnus, dodano: Konfiguracja GRUB: Oddzielne partycje rozruchu dla systemów Windows 11 i Linux Mint
+20-01-2026 dedito, dodano:  Instrukcja przygotowania komputera do pomocy/pracy zdalnej [RustDesk]
+20-02-2026 dedito, dodano: Poradnik dla osób chcących poznać dystrybucje GNU/Linux (przesiadka z Windows)
