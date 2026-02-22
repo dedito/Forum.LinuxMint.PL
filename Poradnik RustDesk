@@ -1,0 +1,26 @@
+[b]Wstęp[/b]
+Program RustDesk, darmowy i otwarto źródłowy odpowiednik TeamViewer służy do udzielania zdalnej pomocy lub zdalnej pracy w sytuacji, gdy komputer na którym chcemy pracować znajduje się daleko od naszej lokalizacji.
+[b]Krok 1: Pobranie programu[/b]
+Otwórz przeglądarkę internetową i wejdź na stronę [url=rustdesk.com]rustdesk.com[/url].
+Kliknij duży przycisk [url=https://rustdesk.com/download]Download[/url](Pobierz).
+Wybierz wersję dla systemu Linux (zazwyczaj plik z końcówką [url=https://github.com/rustdesk/rustdesk/releases/latest].deb[/url]  dla systemów takich jak Ubuntu, Mint, Debian).
+Jeśli nie chcesz nic instalować, możesz pobrać wersję [url=https://github.com/rustdesk/rustdesk/releases/latest]AppImage[/url] – wtedy wystarczy ją tylko uruchomić.
+[b]Krok 2: Uruchomienie[/b]
+Po pobraniu pliku kliknij go dwukrotnie, aby go zainstalować (podobnie jak w sklepie z aplikacjami) lub po prostu uruchom, jeśli wybrałeś AppImage.
+Po otwarciu programu zobaczysz okno z napisem „Twoje urządzenie” (Your Desktop).
+[b]Krok 3: Przekazanie danych osobie pomagającej[/b]
+Na ekranie zobaczysz dwa kluczowe ciągi znaków:
+ID: To numer identyfikacyjny Twojego komputera (zwykle 9 cyfr).
+Hasło (Password): Ciąg liter i cyfr.
+Co musisz zrobić?
+Prześlij te dwie wartości (ID oraz Hasło) osobie, która ma Ci pomóc (np. przez SMS, telefon lub komunikator).
+[img]https://rustdesk.com/docs/en/client/images/client.png[/img]
+[b]Krok 4: Akceptacja połączenia (Ważne!)[/b]
+Gdy osoba pomagająca spróbuje się połączyć:
+Na Twoim ekranie może pojawić się okienko z pytaniem o pozwolenie.
+Kliknij przycisk Akceptuj (Accept) lub Zezwól.
+Uwaga: Jeśli używasz Wayland, system może zapytać dodatkowo, czy chcesz udostępnić cały ekran. Kliknij przycisk potwierdzający udostępnianie ekranu.
+[b]Porady dla Twojego bezpieczeństwa:[/b]
+Nie zamykaj programu: Jeśli zamkniesz okno RustDesk, połączenie zostanie przerwane.
+Widzisz wszystko: Przez cały czas widzisz, co osoba pomagająca robi na Twoim ekranie. Możesz w każdej chwili odzyskać kontrolę, ruszając myszką.
+[b]Zakończenie pomocy:[/b] Po zakończeniu pracy po prostu zamknij program. Nikt nie będzie mógł połączyć się ponownie bez Twojej wiedzy, ponieważ przy każdym uruchomieniu hasło może zostać odświeżone.
