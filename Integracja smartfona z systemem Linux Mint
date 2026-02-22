@@ -1,3 +1,35 @@
+[b][size=medium]Instrukcja: Integracja smartfona z Linux Mint (KDE Connect)[/size][/b]
+[b]KDE Connect[/b] to najpotężniejsze narzędzie do współpracy między komputerem a telefonem. Pozwala na synchronizację powiadomień, wspólny schowek, przesyłanie plików oraz używanie telefonu jako pilota.
+[b]Krok 1: Instalacja na komputerze[/b]
+W systemie Linux Mint (Cinnamon, MATE, Xfce) otwórz terminal i wpisz:
+[code]sudo apt update
+sudo apt install kdeconnect[/code]
+[b]Krok 2: Instalacja na smartfonie[/b]
+Pobierz oficjalną aplikację na swoje urządzenie:
+[list]
+[]Android: [url=play.google.com]Sklep Play[/url]
+[]iOS: [url=apps.apple.com]App Store[/url]
+[/list]
+[b]Krok 3: Parowanie urządzeń[/b]
+[list=1]
+[]Upewnij się, że komputer i telefon są w tej samej sieci Wi-Fi.
+[]Otwórz aplikację na telefonie i wybierz nazwę swojego komputera.
+[]Kliknij [b]"Pair" (Sparuj)[/b].
+[]Na pulpicie Linux Mint pojawi się powiadomienie – kliknij [b]"Accept"[/b].
+[/list]
+[b]Najważniejsze funkcje:[/b]
+[list]
+[][b]Wspólny schowek[/b] – kopiujesz tekst na telefonie, wklejasz na PC (i na odwrót).
+[][b]Zdalne wejście[/b] – ekran telefonu staje się touchpadem i klawiaturą dla komputera.
+[][b]Udostępnianie plików[/b] – błyskawiczne przesyłanie zdjęć i dokumentów przez menu "Udostępnij".
+[][b]Sterowanie multimediami[/b] – pauzuj muzykę lub filmy na komputerze bezpośrednio z telefonu.
+[*][b]Powiadomienia[/b] – czytaj SMS-y i powiadomienia z aplikacji bez wyciągania telefonu z kieszeni.
+[/list]
+[b]Wskazówka dla użytkowników Cinnamon:[/b]
+Aby mieć szybki dostęp do funkcji z paska zadań, warto dodać aplet:
+[i]Prawy klik na panel -> Aplety -> Pobierz -> wyszukaj "KDE Connect"[/i].
+
+
 Integracja smartfona z systemem Linux Mint pozwala na bezprzewodowe przesyłanie plików, synchronizację powiadomień oraz zdalne sterowanie komputerem. Najpotężniejszym narzędziem do tego celu jest
 KDE Connect, ale istnieją też inne dedykowane rozwiązania.
 1. KDE Connect (Standard dla Linux Mint)
